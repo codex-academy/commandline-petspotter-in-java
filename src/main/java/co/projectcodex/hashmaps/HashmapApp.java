@@ -79,7 +79,7 @@ public class HashmapApp {
 
             if (params.length > 1) {
                 String command = params[0].trim();
-                String petTypeParam = params[1];
+                String petTypeParam = params[1].toLowerCase();
                 try {
                     Pet petType = Pet.valueOf(petTypeParam);
                     if ("spotted".equals(command)) {
