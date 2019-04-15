@@ -141,7 +141,7 @@ class PetSpotterUsingMap implements PetSpotter {
 
 }
 
-public class HashmapApp {
+public class TheApp {
 
 
     public static void main(String[] args) {
