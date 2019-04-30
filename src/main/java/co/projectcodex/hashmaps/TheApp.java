@@ -144,6 +144,11 @@ class PetSpotterUsingMap implements PetSpotter {
 public class TheApp {
 
 
+    public TheApp() {
+
+    }
+
+
     public static void main(String[] args) {
 
 
